@@ -1,0 +1,714 @@
+Additional scan result of Farbar Recovery Scan Tool (x64) Version: 13-09-2021
+Ran by Mike (13-09-2021 22:18:47)
+Running from C:\Users\Mike\Downloads
+Windows 10 Enterprise LTSC 2019 Version 1809 17763.2145 (X64) (2021-09-06 17:53:47)
+Boot Mode: Normal
+==========================================================
+
+
+==================== Accounts: =============================
+
+
+(If an entry is included in the fixlist, it will be removed.)
+
+Administrator (S-1-5-21-1555622893-3436100663-1264989344-500 - Administrator - Disabled)
+DefaultAccount (S-1-5-21-1555622893-3436100663-1264989344-503 - Limited - Disabled)
+Guest (S-1-5-21-1555622893-3436100663-1264989344-501 - Limited - Disabled)
+Mike (S-1-5-21-1555622893-3436100663-1264989344-1001 - Administrator - Enabled) => C:\Users\Mike
+WDAGUtilityAccount (S-1-5-21-1555622893-3436100663-1264989344-504 - Limited - Disabled)
+
+==================== Security Center ========================
+
+(If an entry is included in the fixlist, it will be removed.)
+
+AV: Windows Defender (Enabled - Up to date) {D68DDC3A-831F-4fae-9E44-DA132C1ACF46}
+AS: Windows Defender (Enabled - Up to date) {D68DDC3A-831F-4fae-9E44-DA132C1ACF46}
+
+==================== Installed Programs ======================
+
+(Only the adware programs with "Hidden" flag could be added to the fixlist to unhide them. The adware programs should be uninstalled manually.)
+
+4K Video Downloader (HKLM\...\{0E407907-C6E6-41F5-BC7B-A4ED3F81ABED}) (Version: 4.17.2.4460 - Open Media LLC) Hidden
+4K Video Downloader (HKLM-x32\...\{f394d1e8-9be7-47b7-bef7-cdc90ed9b6c3}) (Version: 4.17.2.4460 - Open Media LLC)
+AMD Catalyst Control Center (HKLM-x32\...\WUCCCApp) (Version: 1.00.0000 - AMD)
+Bitdefender Agent (HKLM\...\Bitdefender Agent) (Version: 25.0.1.177 - Bitdefender)
+Continuum 0.40 (HKLM-x32\...\{1B1E0DF6-C424-4E09-A5FC-7A0103E90E8F}) (Version: 0.40 - SubSpace)
+CrystalDiskInfo 8.12.7 (HKLM\...\CrystalDiskInfo_is1) (Version: 8.12.7 - Crystal Dew World)
+dBpoweramp DSP Effects (HKLM-x32\...\dBpoweramp DSP Effects) (Version: Release 7 - Illustrate)
+dBpoweramp Music Converter (HKLM-x32\...\dBpoweramp Music Converter) (Version: Release 14.2 - Illustrate)
+Dolphin (HKLM-x32\...\Dolphin) (Version: 5.0 - Dolphin Team)
+f.lux (HKU\S-1-5-21-1555622893-3436100663-1264989344-1001\...\Flux) (Version:  - f.lux Software LLC)
+Google Chrome (HKLM-x32\...\Google Chrome) (Version: 93.0.4577.63 - Google LLC)
+HandBrake 1.3.3 (HKLM-x32\...\HandBrake) (Version: 1.3.3 - )
+IAR Embedded Workbench for Arm (HKLM-x32\...\{794C69BC-4C0D-4799-A32A-F1DCBF8A2DDA}) (Version: 9.10.2 - IAR Systems)
+MakeMKV v1.16.4 (HKLM-x32\...\MakeMKV) (Version: v1.16.4 - GuinpinSoft inc)
+Metal Gear Solid (HKLM-x32\...\1771973390_is1) (Version: 1.0 - GOG.com)
+Microsoft .NET Runtime - 5.0.9 (x64) (HKLM-x32\...\{41ad49ce-8825-4f16-9f0b-9bab4a24f5b6}) (Version: 5.0.9.30309 - Microsoft Corporation)
+Microsoft Visual C++ 2005 Redistributable (x64) (HKLM\...\{ad8a2fa1-06e7-4b0d-927d-6e54b3d31028}) (Version: 8.0.61000 - Microsoft Corporation)
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161 (HKLM-x32\...\{9BE518E6-ECC6-35A9-88E4-87755C07200F}) (Version: 9.0.30729.6161 - Microsoft Corporation)
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.50727 (HKLM-x32\...\{15134cb0-b767-4960-a911-f2d16ae54797}) (Version: 11.0.50727.1 - Microsoft Corporation)
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.50727 (HKLM-x32\...\{22154f09-719a-4619-bb71-5b3356999fbf}) (Version: 11.0.50727.1 - Microsoft Corporation)
+Microsoft Visual C++ 2015-2019 Redistributable (x64) - 14.27.29112 (HKLM-x32\...\{0f770e99-3916-4b0c-8f9b-83822826bcbf}) (Version: 14.27.29112.0 - Microsoft Corporation)
+Microsoft Visual C++ 2015-2019 Redistributable (x86) - 14.25.28508 (HKLM-x32\...\{65e650ff-30be-469d-b63a-418d71ea1765}) (Version: 14.25.28508.3 - Microsoft Corporation)
+Microsoft Windows Desktop Runtime - 5.0.4 (x64) (HKLM-x32\...\{ff817559-f11f-4faa-af52-26feb4b46fff}) (Version: 5.0.4.29817 - Microsoft Corporation)
+Mozilla Firefox (x64 en-US) (HKLM\...\Mozilla Firefox 92.0 (x64 en-US)) (Version: 92.0 - Mozilla)
+Mozilla Maintenance Service (HKLM\...\MozillaMaintenanceService) (Version: 91.0.2 - Mozilla)
+MPC-HC 1.9.15 (64-bit) (HKLM\...\{2ACBF1FA-F5C3-4B19-A774-B22A31F231B9}_is1) (Version: 1.9.15 - MPC-HC Team)
+Nefarius Virtual Gamepad Emulation Bus Driver (HKLM\...\{93D91F60-7C94-4A79-863F-EA713D2EB3F3}) (Version: 1.17.333.0 - Nefarius Software Solutions e.U.)
+Nu-Link USB Driver 1.7 (HKLM\...\Nu-Link USB Driver_is1) (Version: 1.7 - Nuvoton, Inc.)
+PdaNet+ for Android 5.23 (HKLM-x32\...\PdaNet_is1) (Version:  - June Fabrics Technology)
+PEmicro Device Drivers (HKLM-x32\...\PEDrivers) (Version:  - )
+PS3 Media Server (HKLM-x32\...\PS3 Media Server) (Version: 1.90.0 - PS3 Media Server)
+qBittorrent 4.3.8 (HKLM-x32\...\qBittorrent) (Version: 4.3.8 - The qBittorrent project)
+Realtek High Definition Audio Driver (HKLM-x32\...\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}) (Version: 6.0.1.7544 - Realtek Semiconductor Corp.)
+STMicroelectronics stlink-server (HKLM-x32\...\{F47799D9-26B2-4E45-9689-603534A19A82}) (Version: 2.0.2-1 - STMicroelectronics)
+SumatraPDF (HKLM\...\SumatraPDF) (Version: 3.3.3 - Krzysztof Kowalczyk)
+Vegas Pro 13.0 (64-bit) (HKLM\...\{1EEE0BEE-0BC8-11E5-A19E-F04DA23A5C58}) (Version: 13.0.453 - Sony)
+VLC media player (HKLM-x32\...\VLC media player) (Version: 3.0.16 - VideoLAN)
+Windows Driver Package - FTDI CDM Driver Package (10/22/2009 2.06.00) (HKLM\...\3B093C44CA19A7D5324F4A3CEB666DD4EBB257D6) (Version: 10/22/2009 2.06.00 - FTDI)
+Windows Driver Package - FTDI CDM Driver Package (10/22/2009 2.06.00) (HKLM\...\5AB23CC5A2E8D3A0AA129214C6F9CE8D7F4874B9) (Version: 10/22/2009 2.06.00 - FTDI)
+Windows Driver Package - IAR Systems (IJET) IARUSB  (05/23/2012 2.05) (HKLM\...\1C43F1704FCDAEB095E591CCD332A2EEE6D1B03B) (Version: 05/23/2012 2.05 - IAR Systems)
+Windows Driver Package - IAR Systems (SigUSB3) IARUSB  (05/02/2013 1.2.3.3) (HKLM\...\C91C3DBD969776AC431390C385B6D21100CEDEC2) (Version: 05/02/2013 1.2.3.3 - IAR Systems)
+Windows Driver Package - Nuvoton Co., Ltd. (usbser) Ports  (12/01/2020 1.0.0.1) (HKLM\...\2F8D79B51001A95A8428BF6FB9D9D2FAE3C4E7AA) (Version: 12/01/2020 1.0.0.1 - Nuvoton Co., Ltd.)
+Windows Driver Package - Nuvoton USB  (03/04/2019 1.0.0.0) (HKLM\...\0499449507774A47C9C26776BB3022AD268CB058) (Version: 03/04/2019 1.0.0.0 - Nuvoton)
+Windows Driver Package - Segger (jlink) USB  (08/02/2018 2.70.08.0) (HKLM\...\67EA26CAD232922E8506AD97DBD93123C434F28F) (Version: 08/02/2018 2.70.08.0 - Segger)
+Windows Driver Package - SEGGER (JLinkCDC) Ports  (06/06/2019 1.34.0.44950) (HKLM\...\132A9445F9095BD5CEE4933C0C25054C253BD8A3) (Version: 06/06/2019 1.34.0.44950 - SEGGER)
+Windows Driver Package - SEGGER Microcontroller GmbH (WinUSB) USBDevice  (06/14/2019 3.00.00.000) (HKLM\...\BCE8431F6070A538518E2C2403B8E063956798AA) (Version: 06/14/2019 3.00.00.000 - SEGGER Microcontroller GmbH)
+Windows Driver Package - STMicroelectronics (usbser) Ports  (04/01/2021 2.02) (HKLM\...\50684D234758B0BFDC7A00400E126557529970F3) (Version: 04/01/2021 2.02 - STMicroelectronics)
+Windows Driver Package - STMicroelectronics (WinUSB) STLinkWinUSB  (04/01/2021 2.02) (HKLM\...\650828C915E0BFA89E1E3E114A53B84189F5C9A3) (Version: 04/01/2021 2.02 - STMicroelectronics)
+Windows Driver Package - STMicroelectronics (WinUSB) STLinkWinUSB  (04/01/2021 2.02) (HKLM\...\8B67378C6E26878C0204CF4149166C90625C2377) (Version: 04/01/2021 2.02 - STMicroelectronics)
+Windows Driver Package - Texas Instruments Inc. (WinUSB) StellarisDFUDeviceClass  (09/22/2019 1.4.1) (HKLM\...\8E3469C7F1A4198B81DC8E60BDEC88AEF494932D) (Version: 09/22/2019 1.4.1 - Texas Instruments Inc.)
+Windows Driver Package - Texas Instruments Inc. (WinUSB) StellarisDFUDeviceClass  (12/31/2015 1.2.7922) (HKLM\...\B451A5BD164112F4C315350A6A63F299AFE4E237) (Version: 12/31/2015 1.2.7922 - Texas Instruments Inc.)
+Windows Driver Package - Texas Instruments, Inc. (usbser) Ports  (09/22/2019 2.2.1) (HKLM\...\AC8080469E68097A43BED10B290CE62F90E44BED) (Version: 09/22/2019 2.2.1 - Texas Instruments, Inc.)
+Windows Driver Package - Texas Instruments, Inc. (usbser) Ports  (12/31/2015 2.0.7922) (HKLM\...\2DE52D6FDEC7C6BA51A1CA3CB4210CA9B549C446) (Version: 12/31/2015 2.0.7922 - Texas Instruments, Inc.)
+Windows Driver Package - Texas Instruments, Inc. (WinUSB) StellarisICDIDeviceClass  (09/22/2019 2.2.1) (HKLM\...\39A343A6A3636D392DCC690FB96864CF1A4C143A) (Version: 09/22/2019 2.2.1 - Texas Instruments, Inc.)
+Windows Driver Package - Texas Instruments, Inc. (WinUSB) StellarisICDIDeviceClass  (12/31/2015 2.0.7922) (HKLM\...\4B409D9A80463D76B0730398B50E0D0FA2927F2B) (Version: 12/31/2015 2.0.7922 - Texas Instruments, Inc.)
+WinRAR 5.71 (64-bit) (HKLM\...\WinRAR archiver) (Version: 5.71.0 - win.rar GmbH)
+
+==================== Custom CLSID (Whitelisted): ==============
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+ContextMenuHandlers1: [WinRAR] -> {B41DB860-64E4-11D2-9906-E49FADC173CA} => C:\Program Files\WinRAR\rarext.dll [2019-04-27] (win.rar GmbH -> Alexander Roshal)
+ContextMenuHandlers1-x32: [WinRAR32] -> {B41DB860-8EE4-11D2-9906-E49FADC173CA} => C:\Program Files\WinRAR\rarext32.dll [2019-04-27] (win.rar GmbH -> Alexander Roshal)
+ContextMenuHandlers2-x32: [VMDiskMenuHandler] -> {271DC252-6FE1-4D59-9053-E4CF50AB99DE} => C:\Program Files (x86)\VMware\VMware Workstation\vmdkShellExt.dll [2020-11-17] (VMware, Inc. -> VMware, Inc.)
+ContextMenuHandlers2: [VMDiskMenuHandler64] -> {E4D28EDC-8C0B-43EE-9E7D-C8A8682334DC} => C:\Program Files (x86)\VMware\VMware Workstation\x64\vmdkShellExt64.dll [2020-11-17] (VMware, Inc. -> VMware, Inc.)
+ContextMenuHandlers5: [ACE] -> {5E2121EE-0300-11D4-8D3B-444553540000} => C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\atiacm64.dll [2015-11-04] (Advanced Micro Devices, Inc. -> Advanced Micro Devices, Inc.)
+ContextMenuHandlers6: [WinRAR] -> {B41DB860-64E4-11D2-9906-E49FADC173CA} => C:\Program Files\WinRAR\rarext.dll [2019-04-27] (win.rar GmbH -> Alexander Roshal)
+ContextMenuHandlers6-x32: [WinRAR32] -> {B41DB860-8EE4-11D2-9906-E49FADC173CA} => C:\Program Files\WinRAR\rarext32.dll [2019-04-27] (win.rar GmbH -> Alexander Roshal)
+
+==================== Codecs (Whitelisted) ====================
+
+==================== Shortcuts & WMI ========================
+
+(The entries could be listed to be restored or removed.)
+
+Shortcut: C:\Users\Mike\Desktop\PS3 Media Server.lnk -> C:\Program Files (x86)\PS3 Media Server\PMS-x64.bat ()
+
+==================== Loaded Modules (Whitelisted) =============
+
+2020-06-13 11:17 - 2020-06-13 11:17 - 055094784 _____ () [File not signed] C:\Program Files\HandBrake\hb.DLL
+2021-09-07 20:55 - 2021-06-26 05:39 - 000881664 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\_brotli.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000203776 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\_cffi_backend.cp39-win_amd64.pyd
+2021-09-07 20:41 - 2021-06-26 05:28 - 000031232 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\bcrypt\_bcrypt.cp39-win_amd64.pyd
+2021-09-07 20:41 - 2021-06-26 05:39 - 000081920 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\bottleneck\move.cp39-win_amd64.pyd
+2021-09-07 20:41 - 2021-06-26 05:39 - 000018944 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\bottleneck\nonreduce.cp39-win_amd64.pyd
+2021-09-07 20:41 - 2021-06-26 05:39 - 000039936 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\bottleneck\nonreduce_axis.cp39-win_amd64.pyd
+2021-09-07 20:41 - 2021-06-26 05:39 - 000083456 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\bottleneck\reduce.cp39-win_amd64.pyd
+2021-09-07 20:42 - 2021-06-26 05:28 - 003116544 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\cryptography\hazmat\bindings\_openssl.pyd
+2021-09-07 20:43 - 2021-06-26 05:38 - 001200640 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\gmpy2.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:25 - 000112640 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\kiwisolver.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:24 - 000032256 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\lazy_object_proxy\cext.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:32 - 000087552 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\Levenshtein\_levenshtein.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:30 - 000154112 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\lxml\_elementpath.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:30 - 003007488 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\lxml\etree.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:38 - 000010752 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\lz4\_version.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:38 - 000166912 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\lz4\frame\_frame.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:23 - 000016384 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\markupsafe\_speedups.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:28 - 000012288 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\matplotlib\_c_internal_utils.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:28 - 000172544 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\matplotlib\_image.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:28 - 000147456 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\matplotlib\_path.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:28 - 000192512 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\matplotlib\backends\_backend_agg.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:28 - 000798208 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\matplotlib\ft2font.cp39-win_amd64.pyd
+2021-09-07 20:44 - 2021-06-26 05:27 - 000344576 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\nacl\_sodium.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000113664 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\core\_multiarray_tests.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 002943488 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\core\_multiarray_umath.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000112640 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\fft\_pocketfft_internal.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000156160 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\linalg\_umath_linalg.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000022016 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\linalg\lapack_lite.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000245760 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_bounded_integers.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000181760 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_common.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000685568 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_generator.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000079360 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_mt19937.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000086016 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_pcg64.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000071680 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_philox.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000053760 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\_sfc64.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000151552 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\bit_generator.cp39-win_amd64.pyd
+2021-09-07 20:45 - 2021-06-26 05:24 - 000583680 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\numpy\random\mtrand.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 001337856 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\algos.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000911360 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\groupby.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000160768 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\hashing.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 001025536 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\hashtable.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000452608 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\index.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000045056 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\indexing.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000217088 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\internals.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 001078784 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\interval.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 001909760 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\join.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000068096 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\json.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000460288 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\lib.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000166400 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\missing.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000193536 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\ops.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000051712 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\ops_dispatch.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000402432 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\parsers.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000059904 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\properties.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000259584 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\reduction.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000234496 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\reshape.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000898048 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\sparse.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000071168 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\testing.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000137216 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslib.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000042496 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\base.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000053760 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\ccalendar.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000230912 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\conversion.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000104960 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\dtypes.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000217088 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\fields.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000176128 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\nattype.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000044032 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\np_datetime.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000771072 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\offsets.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000322048 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\parsing.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000353280 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\period.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000298496 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\strptime.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000364032 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\timedeltas.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000369152 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\timestamps.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000198656 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\timezones.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000220160 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\tzconversion.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000197632 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\tslibs\vectorized.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000305152 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\window\aggregations.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000150528 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\window\indexers.cp39-win_amd64.pyd
+2021-09-07 20:46 - 2021-06-26 05:24 - 000186880 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pandas\_libs\writers.cp39-win_amd64.pyd
+2021-09-07 20:47 - 2021-06-26 05:23 - 002672128 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PIL\_imaging.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:24 - 000076288 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\psutil\_psutil_windows.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:23 - 000033280 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pvectorc.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000028160 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\base.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000017920 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\bufferproxy.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000035328 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\color.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000048640 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\constants.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000043008 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\display.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000045568 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\draw.cp39-win_amd64.pyd
+2021-09-07 20:49 - 2021-06-26 05:33 - 000036864 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\event.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000015360 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\fastevent.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000023040 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\font.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000028160 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\image.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000483328 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\imageext.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000019456 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\joystick.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000025600 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\key.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000055808 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\mask.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000062976 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\math.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000035840 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\mixer.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000018432 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\mixer_music.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000018432 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\mouse.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000042496 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\pixelarray.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000025088 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\pixelcopy.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000034816 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\rect.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000017920 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\rwobject.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000014336 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\scrap.cp39-win_amd64.pyd
+2021-09-07 20:56 - 2021-06-26 05:33 - 001145856 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\SDL2.dll
+2021-09-07 20:56 - 2021-06-26 05:33 - 003062272 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\SDL2_image.dll
+2021-09-07 20:56 - 2021-06-26 05:33 - 000180736 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\SDL2_mixer.dll
+2021-09-07 20:56 - 2021-06-26 05:33 - 000863232 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\SDL2_ttf.dll
+2021-09-07 20:50 - 2021-06-26 05:33 - 000216576 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\surface.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000013312 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\surflock.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000017920 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\time.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:33 - 000052224 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\pygame\transform.cp39-win_amd64.pyd
+2021-09-07 20:56 - 2021-06-26 05:27 - 020923392 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\Qt\bin\opengl32sw.dll
+2021-09-07 20:50 - 2021-06-26 05:27 - 002422272 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtCore.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 002437120 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtGui.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 000689152 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtNetwork.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 000253440 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtPrintSupport.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 000462336 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtQml.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 000916992 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtQuick.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 000115712 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtSvg.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 000037376 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtWebChannel.pyd
+2021-09-07 20:50 - 2021-06-26 05:30 - 000096256 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtWebEngineCore.pyd
+2021-09-07 20:50 - 2021-06-26 05:30 - 000226816 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtWebEngineWidgets.pyd
+2021-09-07 20:50 - 2021-06-26 05:27 - 005017088 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\QtWidgets.pyd
+2021-09-07 20:50 - 2021-06-26 05:24 - 000140288 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\PyQt5\sip.cp39-win_amd64.pyd
+2021-09-07 20:50 - 2021-06-26 05:24 - 000663552 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\regex\_regex.cp39-win_amd64.pyd
+2021-09-07 20:56 - 2021-06-26 05:29 - 000237568 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\rtree\lib\spatialindex_c.dll
+2021-09-07 20:56 - 2021-06-26 05:29 - 000650752 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\rtree\lib\spatialindex-64.dll
+2021-09-07 20:51 - 2021-06-26 05:24 - 000061440 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\_lib\_ccallback_c.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000042496 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\_lib\messagestream.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000072704 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\integrate\_dop.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000052736 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\integrate\_odepack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000072192 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\integrate\_quadpack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000071168 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\integrate\lsoda.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000134656 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\integrate\vode.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000223744 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\interpolate\_bspl.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000099840 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\interpolate\_fitpack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000286720 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\interpolate\_ppoly.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000378368 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\interpolate\_rbfinterp_pythran.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000249856 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\interpolate\dfitpack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000281600 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\interpolate\interpnd.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000036352 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\io\matlab\mio_utils.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000152576 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\io\matlab\mio5_utils.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000080896 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\io\matlab\streams.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000239616 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_decomp_update.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000591360 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_fblas.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 001979904 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_flapack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000065536 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_flinalg.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000354816 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_interpolative.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000171520 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_matfuncs_sqrtm_triu.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000194048 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\_solve_toeplitz.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000231424 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\cython_blas.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000650752 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\linalg\cython_lapack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000124928 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\ndimage\_nd_image.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000267776 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\ndimage\_ni_label.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000034816 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\__nnls.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000230400 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_bglu_dense.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000060416 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_cobyla.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000046592 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_group_columns.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000027136 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_highs\_highs_constants.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 001469952 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_highs\_highs_wrapper.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000079360 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_lbfgsb.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000025600 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_lsap_module.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000142336 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_lsq\givens_elimination.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000053760 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_minpack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000061440 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_slsqp.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000250368 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_trlib\_trlib.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000016384 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\_zeros.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000038912 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\minpack2.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000051200 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\optimize\moduleTNC.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000473088 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\_csparsetools.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 002177024 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\_sparsetools.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000198656 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_flow.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000222720 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_matching.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000156672 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_min_spanning_tree.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000207872 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_reordering.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000320000 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_shortest_path.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000120832 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_tools.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000115712 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\csgraph\_traversal.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000283136 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\linalg\dsolve\_superlu.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000455168 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\linalg\eigen\arpack\_arpack.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000240128 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\sparse\linalg\isolve\_iterative.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000233984 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\_distance_pybind.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000127488 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\_distance_wrap.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000148992 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\_hausdorff.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000146944 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\_voronoi.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000518144 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\ckdtree.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000830976 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\qhull.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000479232 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\spatial\transform\rotation.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000031744 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\special\_comb.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000065536 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\special\_ellip_harm_2.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 001277952 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\special\_ufuncs.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000109568 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\special\_ufuncs_cxx.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 001836032 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\special\cython_special.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000410112 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\special\specfun.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000232960 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\_boost\beta_ufunc.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000197120 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\_boost\binom_ufunc.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000200704 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\_boost\nbinom_ufunc.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000175616 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\_qmc_cy.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000174592 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\_sobol.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000415232 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\_stats.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000165376 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\biasedurn.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000062464 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\mvn.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:24 - 000038912 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\scipy\stats\statlib.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:32 - 000044032 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\simplejson\_speedups.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:32 - 000133632 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\skimage\_shared\geometry.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:32 - 000531968 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\skimage\util\_remap.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:27 - 000019968 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\sklearn\__check_build\_check_build.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:27 - 000032768 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\sklearn\utils\_openmp_helpers.cp39-win_amd64.pyd
+2021-09-07 20:51 - 2021-06-26 05:27 - 000075264 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\sklearn\utils\murmurhash.cp39-win_amd64.pyd
+2021-09-07 20:54 - 2021-06-26 05:23 - 000010240 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\tornado\speedups.cp39-win_amd64.pyd
+2021-09-07 20:54 - 2021-06-26 05:23 - 000081920 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\ujson.cp39-win_amd64.pyd
+2021-09-07 20:54 - 2021-06-26 05:22 - 000012288 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\win32\_win32sysloader.pyd
+2021-09-07 20:54 - 2021-06-26 05:22 - 000134656 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\win32\win32api.pyd
+2021-09-07 20:54 - 2021-06-26 05:22 - 000141824 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\win32\win32security.pyd
+2021-09-07 20:54 - 2021-06-26 05:22 - 000528384 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\win32comext\shell\shell.pyd
+2021-09-07 20:54 - 2021-06-26 05:23 - 000041472 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\wrapt\_wrappers.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000049664 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\_device.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000060416 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\_poll.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000045056 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\_proxy_steerable.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000029696 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\_version.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000060928 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\constants.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000059392 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\context.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000031232 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\error.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000082944 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\message.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000126976 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\socket.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000040448 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\backend\cython\utils.cp39-win_amd64.pyd
+2021-09-07 20:55 - 2021-06-26 05:23 - 000898048 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\lib\site-packages\zmq\libzmq.cp39-win_amd64.pyd
+2021-09-07 20:56 - 2021-06-26 05:40 - 000555520 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\pythoncom39.dll
+2021-09-07 20:56 - 2021-06-26 05:40 - 000141824 _____ () [File not signed] C:\Users\Mike\Desktop\WPy64-3950\python-3.9.5.amd64\pywintypes39.dll
+2015-11-04 18:40 - 2015-11-04 18:40 - 000004608 _____ (Advanced Micro Devices, Inc.) [File not signed] C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static\atiamenu.dll
+2021-09-06 13:43 - 2021-09-06 13:43 - 011330560 _____ (Artifex Software et al.) [File not signed] C:\Users\Mike\AppData\Local\SumatraPDF\libmupdf.dll
+2021-09-13 17:43 - 2021-09-13 17:43 - 000196608 _____ (Java(TM) Native Access (JNA)) [File not signed] C:\Users\Mike\AppData\Local\Temp\jna1530101457288471647.dll
+
+==================== Alternate Data Streams (Whitelisted) ========
+
+==================== Safe Mode (Whitelisted) ==================
+
+==================== Association (Whitelisted) =================
+
+==================== Internet Explorer (Whitelisted) ==========
+
+
+==================== Hosts content: =========================
+
+(If needed Hosts: directive could be included in the fixlist to reset Hosts.)
+
+2018-09-15 02:31 - 2018-09-15 02:31 - 000000824 _____ C:\Windows\system32\drivers\etc\hosts
+
+==================== Other Areas ===========================
+
+(Currently there is no automatic fix for this section.)
+
+HKLM\System\CurrentControlSet\Control\Session Manager\Environment\\Path -> C:\Program Files (x86)\VMware\VMware Workstation\bin\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\dotnet\
+HKU\S-1-5-21-1555622893-3436100663-1264989344-1001\Control Panel\Desktop\\Wallpaper -> C:\Users\Mike\AppData\Roaming\Microsoft\Windows Photo Viewer\Windows Photo Viewer Wallpaper.jpg
+DNS Servers: 8.8.8.8 - 192.168.1.1
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System => (ConsentPromptBehaviorAdmin: 0) (ConsentPromptBehaviorUser: 3) (EnableLUA: 1)
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer => (SmartScreenEnabled: Off)
+Windows Firewall is enabled.
+
+Network Binding:
+=============
+Ethernet: VMware Bridge Protocol -> vmware_bridge (enabled) 
+PdaNet Broadband Connection: VMware Bridge Protocol -> vmware_bridge (enabled) 
+Wi-Fi: VMware Bridge Protocol -> vmware_bridge (enabled) 
+Bluetooth Network Connection: VMware Bridge Protocol -> vmware_bridge (enabled) 
+VMware Network Adapter VMnet8: VMware Bridge Protocol -> vmware_bridge (disabled) 
+VMware Network Adapter VMnet1: VMware Bridge Protocol -> vmware_bridge (disabled) 
+Wi-Fi 2: VMware Bridge Protocol -> vmware_bridge (disabled) 
+
+==================== MSCONFIG/TASK MANAGER disabled items ==
+
+(If an entry is included in the fixlist, it will be removed.)
+
+MSCONFIG\Services: AMD External Events Utility => 2
+MSCONFIG\Services: RtkAudioService => 2
+HKLM\...\StartupApproved\Run: => "SecurityHealth"
+HKLM\...\StartupApproved\Run: => "RtHDVBg"
+HKLM\...\StartupApproved\Run: => "RTHDVCPL"
+HKLM\...\StartupApproved\Run32: => "vmware-tray.exe"
+HKLM\...\StartupApproved\Run32: => "StartCCC"
+
+==================== FirewallRules (Whitelisted) ================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+FirewallRules: [{3F978751-DABC-4D98-BEFF-7CD2D5209158}] => (Allow) C:\Program Files\Google\Chrome\Application\chrome.exe (Google LLC -> Google LLC)
+FirewallRules: [{D91F969D-6DE2-4977-A8D1-105005FC9116}] => (Allow) C:\Program Files\Mozilla Firefox\firefox.exe (Mozilla Corporation -> Mozilla Corporation)
+FirewallRules: [{2BDD277C-B8AD-4FC4-B900-1AC8AA838AA8}] => (Allow) C:\Program Files\Mozilla Firefox\firefox.exe (Mozilla Corporation -> Mozilla Corporation)
+FirewallRules: [TCP Query User{16C2B23B-22DC-422A-8A43-7DEF7BB8E912}C:\program files (x86)\ps3 media server\jre\bin\javaw.exe] => (Allow) C:\program files (x86)\ps3 media server\jre\bin\javaw.exe => No File
+FirewallRules: [UDP Query User{26212B5C-78BD-47F3-BADB-85FF0D5AFDF6}C:\program files (x86)\ps3 media server\jre\bin\javaw.exe] => (Allow) C:\program files (x86)\ps3 media server\jre\bin\javaw.exe => No File
+FirewallRules: [{709FB445-83C6-4B38-8F8B-7D7546AF00FF}] => (Block) C:\program files (x86)\ps3 media server\jre\bin\javaw.exe => No File
+FirewallRules: [{03613F22-C875-496F-85DC-D79EE2B22700}] => (Block) C:\program files (x86)\ps3 media server\jre\bin\javaw.exe => No File
+FirewallRules: [{C8981BA0-3E25-49F6-8EAF-367AD1C4C420}] => (Allow) C:\Program Files (x86)\PS3 Media Server\pms.exe => No File
+FirewallRules: [{36D11EF9-D959-4DB1-83BD-1C90C2125FD6}] => (Allow) C:\Program Files (x86)\PS3 Media Server\pms.exe => No File
+FirewallRules: [{9C00E8BE-C672-45E1-9BB5-D4438DB6CB87}] => (Allow) C:\Program Files (x86)\PS3 Media Server\pms.exe => No File
+FirewallRules: [{ECB05FBA-90FB-4BC9-A172-DF754ED23F8B}] => (Allow) C:\Program Files (x86)\PS3 Media Server\pms.exe => No File
+FirewallRules: [{29DC1192-A088-42E9-9AC1-7EB573BC3A1F}] => (Allow) C:\Program Files (x86)\PS3 Media Server\pms.exe => No File
+FirewallRules: [{FA01FC7C-CA93-465D-85B2-B86636BA698D}] => (Allow) C:\Program Files (x86)\PS3 Media Server\pms.exe => No File
+FirewallRules: [{A002BDC2-E900-4ECF-8C9D-DBCDB3BEC89D}] => (Allow) C:\Program Files\qBittorrent\qbittorrent.exe (The qBittorrent Project) [File not signed]
+FirewallRules: [{46E30197-BE29-444A-8943-4019E5BD12E1}] => (Allow) C:\Program Files\qBittorrent\qbittorrent.exe (The qBittorrent Project) [File not signed]
+FirewallRules: [{14A11E7B-F54B-4543-86B4-1E7FEC70F24E}] => (Allow) C:\Program Files\WinRAR\WinRAR.exe (win.rar GmbH -> Alexander Roshal)
+FirewallRules: [{6D83A0A4-1D7E-409F-B63E-6C27481907D2}] => (Allow) C:\Program Files\WinRAR\WinRAR.exe (win.rar GmbH -> Alexander Roshal)
+FirewallRules: [{E71E31E9-0AFB-44A8-B558-77363DFBE208}] => (Allow) C:\Users\Mike\Downloads\JavaUninstallTool.exe => No File
+FirewallRules: [{68C4A0AB-1A1F-44E1-8C5A-028DFFD4758F}] => (Allow) C:\Users\Mike\Downloads\JavaUninstallTool.exe => No File
+FirewallRules: [{7A207B72-BAA1-418B-933D-D1E98E5DA8E9}] => (Allow) C:\Users\Mike\Downloads\JavaUninstallTool.exe => No File
+FirewallRules: [{08D5F4D9-87E1-4398-8ACE-F1BCA3135CE7}] => (Allow) C:\Users\Mike\Downloads\JavaUninstallTool.exe => No File
+FirewallRules: [TCP Query User{619637B2-9E40-4D22-B93C-804E2A9CB8DC}C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe] => (Allow) C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe
+FirewallRules: [UDP Query User{72BC2D4F-E9BE-4ADE-9194-69619AD70127}C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe] => (Allow) C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe
+FirewallRules: [{81CC0B67-D24E-467E-AA50-BACCC005C519}] => (Allow) C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe (VMware, Inc. -> VMware, Inc.)
+FirewallRules: [{2AD77E4E-FC1E-4AAF-9F9E-357C4F1C02B2}] => (Allow) C:\Program Files (x86)\VMware\VMware Workstation\vmware-authd.exe (VMware, Inc. -> VMware, Inc.)
+FirewallRules: [{20354CAD-25B9-4D0B-99D8-FD0FA7B4C3DC}] => (Allow) C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe (VMware, Inc. -> )
+FirewallRules: [{1229345D-D08A-416B-A3CC-1C72C797CF6F}] => (Allow) C:\Program Files (x86)\VMware\VMware Workstation\vmware-hostd.exe (VMware, Inc. -> )
+FirewallRules: [{1598C72B-F1A1-475E-AD54-0B62B9D3DF28}] => (Block) C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe (VMware, Inc. -> VMware, Inc.)
+FirewallRules: [TCP Query User{B1942AC8-EB1C-4308-A602-6BCCD7360E7B}C:\program files\qbittorrent\qbittorrent.exe] => (Block) C:\program files\qbittorrent\qbittorrent.exe (The qBittorrent Project) [File not signed]
+FirewallRules: [UDP Query User{4D052AA6-DC3B-473A-9FC9-736125DF2D70}C:\program files\qbittorrent\qbittorrent.exe] => (Block) C:\program files\qbittorrent\qbittorrent.exe (The qBittorrent Project) [File not signed]
+FirewallRules: [TCP Query User{1BBCB4FD-B5FF-40E9-A78C-3CDFDE612341}C:\users\mike\desktop\yabause-0.9.15-win64\yabause.exe] => (Block) C:\users\mike\desktop\yabause-0.9.15-win64\yabause.exe => No File
+FirewallRules: [UDP Query User{8173F3A9-36E2-4130-890F-911C94560147}C:\users\mike\desktop\yabause-0.9.15-win64\yabause.exe] => (Block) C:\users\mike\desktop\yabause-0.9.15-win64\yabause.exe => No File
+FirewallRules: [{455771B5-4DCF-4755-87C2-672198ED64A4}] => (Allow) C:\Program Files\Sony\Vegas Pro 13.0\vegas130.exe (Sony Creative Software Inc -> Sony Creative Software Inc.) [File not signed]
+FirewallRules: [{4D96175A-5289-44E9-BB58-F322285196B5}] => (Allow) C:\Program Files\Sony\Vegas Pro 13.0\vegas130.exe (Sony Creative Software Inc -> Sony Creative Software Inc.) [File not signed]
+FirewallRules: [{0A3D512C-9679-41BC-8BC0-27DA8D7A3201}] => (Block) C:\Program Files\Sony\Vegas Pro 13.0\vegas130.exe (Sony Creative Software Inc -> Sony Creative Software Inc.) [File not signed]
+FirewallRules: [TCP Query User{F0927AAF-9807-4FF4-A931-06AAB6985921}C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe] => (Block) C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe
+FirewallRules: [UDP Query User{47701130-0433-4813-A3B5-B3EB809F7410}C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe] => (Block) C:\program files (x86)\ps3 media server\jre64\bin\javaw.exe
+FirewallRules: [TCP Query User{3B82F673-16CB-4817-96CF-EB0D3E5026F9}C:\users\mike\desktop\wpy64-3950\python-3.9.5.amd64\python.exe] => (Allow) C:\users\mike\desktop\wpy64-3950\python-3.9.5.amd64\python.exe (Python Software Foundation -> Python Software Foundation)
+FirewallRules: [UDP Query User{58CC9D76-81F3-4625-95D9-B32F4C1F123F}C:\users\mike\desktop\wpy64-3950\python-3.9.5.amd64\python.exe] => (Allow) C:\users\mike\desktop\wpy64-3950\python-3.9.5.amd64\python.exe (Python Software Foundation -> Python Software Foundation)
+
+==================== Restore Points =========================
+
+06-09-2021 12:59:25 Windows Update
+07-09-2021 14:48:30 Windows Modules Installer
+08-09-2021 20:00:56 4K Video Downloader
+10-09-2021 19:29:47 Windows Modules Installer
+
+==================== Faulty Device Manager Devices ============
+
+Name: Dell Wireless 1703 802.11b|g|n (2.4GHz)
+Description: Dell Wireless 1703 802.11b|g|n (2.4GHz)
+Class Guid: {4d36e972-e325-11ce-bfc1-08002be10318}
+Manufacturer: Qualcomm Atheros Communications Inc.
+Service: athr
+Problem: : This device is disabled. (Code 22)
+Resolution: In Device Manager, click "Action", and then click "Enable Device". This starts the Enable Device wizard. Follow the instructions.
+
+Name: Alcatel 5044R
+Description: Alcatel 5044R
+Class Guid: 
+Manufacturer: 
+Service: 
+Problem: : The drivers for this device are not installed. (Code 28)
+Resolution: To install the drivers for this device, click "Update Driver", which starts the Hardware Update wizard.
+
+
+==================== Event log errors: ========================
+
+Application errors:
+==================
+Error: (09/13/2021 08:52:09 PM) (Source: Application Error) (EventID: 1000) (User: )
+Description: Faulting application name: taskmgr.exe, version: 10.0.17763.1697, time stamp: 0x19db2690
+Faulting module name: taskmgr.exe, version: 10.0.17763.1697, time stamp: 0x19db2690
+Exception code: 0xc0000409
+Fault offset: 0x000000000001ed64
+Faulting process id: 0x11fc
+Faulting application start time: 0x01d7a8e4a5a3dad9
+Faulting application path: C:\Windows\system32\taskmgr.exe
+Faulting module path: C:\Windows\system32\taskmgr.exe
+Report Id: f875f451-cd77-4bfe-b132-d32ece07553d
+Faulting package full name: 
+Faulting package-relative application ID:
+
+Error: (09/13/2021 09:08:44 AM) (Source: VSS) (EventID: 8193) (User: )
+Description: Volume Shadow Copy Service error: Unexpected error calling routine QueryFullProcessImageNameW.  hr = 0x80070006, The handle is invalid.
+.
+
+
+Operation:
+   Executing Asynchronous Operation
+
+Context:
+   Current State: DoSnapshotSet
+
+Error: (09/12/2021 09:14:08 PM) (Source: Application Error) (EventID: 1000) (User: )
+Description: Faulting application name: Dolphin.exe, version: 0.0.0.0, time stamp: 0x576cf5f6
+Faulting module name: KERNELBASE.dll, version: 10.0.17763.2090, time stamp: 0x48c3d784
+Exception code: 0x80000003
+Fault offset: 0x00000000000be8e2
+Faulting process id: 0x2570
+Faulting application start time: 0x01d7a8364d84b64d
+Faulting application path: C:\Users\Mike\Desktop\Games\Dolphin\Dolphin.exe
+Faulting module path: C:\Windows\System32\KERNELBASE.dll
+Report Id: 3ae66672-fbe9-4453-accc-b228fa7d635b
+Faulting package full name: 
+Faulting package-relative application ID:
+
+Error: (09/11/2021 11:44:37 AM) (Source: .NET Runtime) (EventID: 1023) (User: )
+Description: Description: A .NET application failed.
+Application: DS4Windows.exe
+Path: C:\DS4 Windows\DS4Windows.exe
+Message: It was not possible to find any compatible framework version
+The framework 'Microsoft.WindowsDesktop.App', version '5.0.0' was not found.
+  - No frameworks were found.
+
+You can resolve the problem by installing the specified framework and/or SDK.
+
+The specified framework can be found at:
+  - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=5.0.0&arch=x64&rid=win10-x64
+
+Error: (09/11/2021 11:42:13 AM) (Source: .NET Runtime) (EventID: 1023) (User: )
+Description: Description: A .NET application failed.
+Application: DS4Windows.exe
+Path: C:\Users\Mike\Desktop\DS4 Windows\DS4Windows.exe
+Message: It was not possible to find any compatible framework version
+The framework 'Microsoft.WindowsDesktop.App', version '5.0.0' was not found.
+  - No frameworks were found.
+
+You can resolve the problem by installing the specified framework and/or SDK.
+
+The specified framework can be found at:
+  - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=5.0.0&arch=x64&rid=win10-x64
+
+Error: (09/11/2021 11:35:41 AM) (Source: .NET Runtime) (EventID: 1023) (User: )
+Description: Description: A .NET application failed.
+Application: DS4Windows.exe
+Path: C:\Users\Mike\Desktop\DS4 Windows\DS4Windows.exe
+Message: It was not possible to find any compatible framework version
+The framework 'Microsoft.WindowsDesktop.App', version '5.0.0' was not found.
+  - No frameworks were found.
+
+You can resolve the problem by installing the specified framework and/or SDK.
+
+The specified framework can be found at:
+  - https://aka.ms/dotnet-core-applaunch?framework=Microsoft.WindowsDesktop.App&framework_version=5.0.0&arch=x64&rid=win10-x64
+
+Error: (09/10/2021 07:32:14 PM) (Source: Application Error) (EventID: 1000) (User: )
+Description: Faulting application name: Dolphin.exe, version: 0.0.0.0, time stamp: 0x576cf5f6
+Faulting module name: Dolphin.exe, version: 0.0.0.0, time stamp: 0x576cf5f6
+Exception code: 0xc0000005
+Fault offset: 0x0000000000583bed
+Faulting process id: 0x3b0
+Faulting application start time: 0x01d7a6a46461515d
+Faulting application path: C:\Program Files\Dolphin\Dolphin.exe
+Faulting module path: C:\Program Files\Dolphin\Dolphin.exe
+Report Id: 185ae0a4-ae92-42e7-9add-6c8e39888463
+Faulting package full name: 
+Faulting package-relative application ID:
+
+Error: (09/10/2021 07:30:30 PM) (Source: Application Error) (EventID: 1000) (User: )
+Description: Faulting application name: Hydorah.exe, version: 1.1.0.0, time stamp: 0x4f16f44d
+Faulting module name: saudio.dll, version: 1.0.1.1, time stamp: 0x432368a8
+Exception code: 0xc0000005
+Fault offset: 0x000030c0
+Faulting process id: 0x25d8
+Faulting application start time: 0x01d7a6a415b2eac5
+Faulting application path: C:\Users\Mike\Desktop\Games\Hydorah\Hydorah.exe
+Faulting module path: C:\Users\Mike\AppData\Local\Temp\gm_ttt_32612\temp434\saudio.dll
+Report Id: 7c65298d-6fe6-4f0f-a0a9-e3cb5061ae24
+Faulting package full name: 
+Faulting package-relative application ID:
+
+
+System errors:
+=============
+Error: (09/13/2021 05:28:22 AM) (Source: DCOM) (EventID: 10016) (User: DESKTOP-V5EC2JO)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-V5EC2JO\Mike SID (S-1-5-21-1555622893-3436100663-1264989344-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/10/2021 05:06:37 PM) (Source: DCOM) (EventID: 10016) (User: DESKTOP-V5EC2JO)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-V5EC2JO\Mike SID (S-1-5-21-1555622893-3436100663-1264989344-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/09/2021 11:09:21 PM) (Source: DCOM) (EventID: 10016) (User: DESKTOP-V5EC2JO)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-V5EC2JO\Mike SID (S-1-5-21-1555622893-3436100663-1264989344-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/09/2021 11:07:34 PM) (Source: DCOM) (EventID: 10016) (User: DESKTOP-V5EC2JO)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-V5EC2JO\Mike SID (S-1-5-21-1555622893-3436100663-1264989344-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/09/2021 11:06:51 PM) (Source: DCOM) (EventID: 10016) (User: DESKTOP-V5EC2JO)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-V5EC2JO\Mike SID (S-1-5-21-1555622893-3436100663-1264989344-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/09/2021 07:55:37 PM) (Source: DCOM) (EventID: 10016) (User: DESKTOP-V5EC2JO)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{2593F8B9-4EAF-457C-B68A-50F6B8EA6B54}
+ and APPID 
+{15C20B67-12E7-4BB6-92BB-7AFF07997402}
+ to the user DESKTOP-V5EC2JO\Mike SID (S-1-5-21-1555622893-3436100663-1264989344-1001) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/09/2021 04:31:48 PM) (Source: DCOM) (EventID: 10016) (User: NT AUTHORITY)
+Description: The application-specific permission settings do not grant Local Launch permission for the COM Server application with CLSID 
+Windows.SecurityCenter.WscDataProtection
+ and APPID 
+Unavailable
+ to the user NT AUTHORITY\SYSTEM SID (S-1-5-18) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+Error: (09/09/2021 04:30:43 PM) (Source: DCOM) (EventID: 10016) (User: NT AUTHORITY)
+Description: The application-specific permission settings do not grant Local Activation permission for the COM Server application with CLSID 
+{6B3B8D23-FA8D-40B9-8DBD-B950333E2C52}
+ and APPID 
+{4839DDB7-58C2-48F5-8283-E1D1807D0D7D}
+ to the user NT AUTHORITY\LOCAL SERVICE SID (S-1-5-19) from address LocalHost (Using LRPC) running in the application container Unavailable SID (Unavailable). This security permission can be modified using the Component Services administrative tool.
+
+
+Windows Defender:
+================
+Date: 2021-09-13 18:39:14.022
+Description: 
+Microsoft Defender Antivirus scan has been stopped before completion.
+Scan Type: Antimalware
+Scan Parameters: Quick Scan
+
+Date: 2021-09-13 16:56:32.115
+Description: 
+Microsoft Defender Antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Backdoor:Win32/Bladabindi!ml&threatid=2147748148&enterprise=0
+Name: Backdoor:Win32/Bladabindi!ml
+Severity: Severe
+Category: Backdoor
+Path: file:_C:\Users\Mike\Desktop\Games\MAME-VeryBestRomsExtended-(2575 games)\MameVeryBestRomsExtended.exe
+Detection Origin: Local machine
+Detection Type: FastPath
+Detection Source: Real-Time Protection
+Process Name: C:\Windows\explorer.exe
+Security intelligence Version: AV: 1.349.622.0, AS: 1.349.622.0, NIS: 1.349.622.0
+Engine Version: AM: 1.1.18500.10, NIS: 1.1.18500.10
+
+Date: 2021-09-12 16:29:38.235
+Description: 
+Microsoft Defender Antivirus scan has been stopped before completion.
+Scan Type: Antimalware
+Scan Parameters: Quick Scan
+
+Date: 2021-09-11 14:30:25.816
+Description: 
+Microsoft Defender Antivirus scan has been stopped before completion.
+Scan Type: Antimalware
+Scan Parameters: Quick Scan
+
+Date: 2021-09-10 12:49:17.146
+Description: 
+Microsoft Defender Antivirus scan has been stopped before completion.
+Scan Type: Antimalware
+Scan Parameters: Quick Scan
+
+Date: 2021-09-09 16:43:42.090
+Description: 
+Microsoft Defender Antivirus has encountered an error trying to update security intelligence.
+New security intelligence Version: 
+Previous security intelligence Version: 1.349.437.0
+Update Source: Microsoft Update Server
+Security intelligence Type: AntiVirus
+Update Type: Full
+Current Engine Version: 
+Previous Engine Version: 1.1.18500.10
+Error code: 0x80072ee2
+Error description: The operation timed out 
+
+==================== Memory info =========================== 
+
+BIOS: Dell Inc. A12 08/28/2013
+Motherboard: Dell Inc. 0YJPT1
+Processor: Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+Percentage of memory in use: 56%
+Total physical RAM: 8152.92 MB
+Available physical RAM: 3568.76 MB
+Total Virtual: 12558.36 MB
+Available Virtual: 6305.92 MB
+
+==================== Drives ================================
+
+Drive c: () (Fixed) (Total:931.41 GB) (Free:343.36 GB) NTFS
+Drive e: (Backup) (Fixed) (Total:931.5 GB) (Free:170.34 GB) NTFS
+Drive f: (New Volume) (Fixed) (Total:931.5 GB) (Free:468.92 GB) NTFS
+
+\\?\Volume{00bee765-0000-0000-0000-100000000000}\ (System Reserved) (Fixed) (Total:0.1 GB) (Free:0.06 GB) NTFS
+
+==================== MBR & Partition Table ====================
+
+==========================================================
+Disk: 0 (MBR Code: Windows 7/8/10) (Size: 1863 GB) (Disk ID: 00BEE765)
+Partition 1: (Active) - (Size=100 MB) - (Type=07 NTFS)
+Partition 2: (Not Active) - (Size=931.4 GB) - (Type=07 NTFS)
+Partition 3: (Not Active) - (Size=931.5 GB) - (Type=07 NTFS)
+
+==========================================================
+Disk: 1 (Size: 931.5 GB) (Disk ID: 27A9771B)
+Partition 1: (Not Active) - (Size=931.5 GB) - (Type=0F Extended)
+
+==================== End of Addition.txt =======================

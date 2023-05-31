@@ -1,0 +1,34 @@
+test2.c: In function ‘main’:
+test2.c:36:33: warning: implicit declaration of function ‘fork’ [-Wimplicit-function-declaration]
+   36 |                     child_pid = fork();
+      |                                 ^~~~
+test2.c:37:21: warning: implicit declaration of function ‘execute’ [-Wimplicit-function-declaration]
+   37 |                     execute( arglist ); /* do it        */
+      |                     ^~~~~~~
+test2.c:43:30: warning: comparison between pointer and integer
+   43 |     } while ((c=fgetc(stdin) != "q"))  ;
+      |                              ^~
+test2.c: In function ‘execute’:
+test2.c:53:9: warning: implicit declaration of function ‘execvp’ [-Wimplicit-function-declaration]
+   53 |         execvp(arglist[0], arglist);            /* do it */
+      |         ^~~~~~
+test2.c:55:9: warning: implicit declaration of function ‘exit’ [-Wimplicit-function-declaration]
+   55 |         exit(1);
+      |         ^~~~
+test2.c:10:1: note: include ‘<stdlib.h>’ or provide a declaration of ‘exit’
+    9 | #include        <string.h>
+  +++ |+#include <stdlib.h>
+   10 | 
+test2.c:55:9: warning: incompatible implicit declaration of built-in function ‘exit’ [-Wbuiltin-declaration-mismatch]
+   55 |         exit(1);
+      |         ^~~~
+test2.c:55:9: note: include ‘<stdlib.h>’ or provide a declaration of ‘exit’
+test2.c: In function ‘makestring’:
+test2.c:63:23: warning: conflicting types for built-in function ‘malloc’; expected ‘void *(long unsigned int)’ [-Wbuiltin-declaration-mismatch]
+   63 |         char    *cp, *malloc();
+      |                       ^~~~~~
+test2.c:63:23: note: ‘malloc’ is declared in header ‘<stdlib.h>’
+test2.c:69:17: warning: incompatible implicit declaration of built-in function ‘exit’ [-Wbuiltin-declaration-mismatch]
+   69 |                 exit(1);
+      |                 ^~~~
+test2.c:69:17: note: include ‘<stdlib.h>’ or provide a declaration of ‘exit’
